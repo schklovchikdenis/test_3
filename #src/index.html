@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ru">
+@@include('_head.html',{
+"title":"Dating"
+})
+
+<body>
+	<div class="wrapper">
+		<main class="page">
+			<div class="soc-top">
+				<ul class="soc-top__list">
+					<li><a href="#" class="soc-top__link"><i class="icon-share"></i></a></li>
+					<li><a href="#" class="soc-top__link"><i class="icon-facebook"></i></a></li>
+					<li><a href="#" class="soc-top__link"><i class="icon-instagram"></i></a></li>
+					<li><a href="#" class="soc-top__link"><i class="icon-twitter"></i></a></li>
+				</ul>
+			</div>
+			<!-- Section Top -->
+			<section class="top">
+				@@include('_header.html',{})
+				<div class="top__container _container">
+					<div class="top__logo">
+						<img src="img/logo.png" alt="" />
+					</div>
+					<div class="top__title">Find Someone to Click With</div>
+					<div class="top__scroll scroll-btn">
+						<a href="#" class="scroll-btn__link">Get Started<i class="icon-arrow"></i></a>
+					</div>
+					<div class="top__wrapp">
+						<div class="top__cards">
+							<div class="top__card">
+								<div class="top__content top__content_1">
+									<div class="top__image">
+										<img src="img/cards/1.png" alt="" />
+									</div>
+									<div class="top__text">One World</div>
+								</div>
+							</div>
+							<div class="top__card">
+								<div class="top__content top__content_2">
+									<div class="top__image">
+										<img src="img/cards/2.png" alt="" />
+									</div>
+									<div class="top__text">Two Hearts</div>
+								</div>
+							</div>
+							<div class="top__card">
+								<div class="top__content top__content_3">
+									<div class="top__image">
+										<img src="img/cards/3.png" alt="" />
+									</div>
+									<div class="top__text">One Site</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- Section Welcome -->
+			<section class="welcome">
+
+				<div class="welcome__container _container">
+					<div class="welcome__h2">WELCOME!</div>
+					<div class="welcome__title">
+						<div class="welcome__citate">“Love is a promise, love is a souvenir, once given never forgotten, never
+							let it disappear.”<p>- John Lennon</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="welcome__join join-welcom">
+					<div class="join-welcom__column join-welcom__column_1">
+						<div class="join-welcom__column_left"></div>
+					</div>
+					<div class="join-welcom__column join-welcom__column_center">
+						<form action="" class="form__contact contact-form">
+							<div class="contact-form__title">IT`S FREE TO JOIN</div>
+							<div class="contact-form__facebook">
+								<a href="#" class="contact-form__link">
+									<span class="icon-facebook-icon"></span>
+									<span>Sign up with Facebook</span>
+								</a>
+							</div>
+							<div class="contact-form__separator"><span>or</span></div>
+							<div class="contact-form__input">
+								<input autocomplete="off" type="email" name="form[]" data-value="Email"
+									class="input email _req input__contact-form" />
+							</div>
+							<div class="contact-form__input">
+								<input autocomplete="off" type="username" name="form[]" data-value="Username"
+									class="input username input__contact-form" />
+							</div>
+							<div class="contact-form__input">
+								<input autocomplete="off" type="" name="form[]" data-value="Password"
+									class="input password input__contact-form" />
+							</div>
+							<div class="contact-form__input">
+								<input autocomplete="off" type="" name="form[]" data-value="Confirm Password"
+									class="input password input__contact-form" />
+							</div>
+							<button type="submit" class="contact-form__btn btn">Let’s Go!</button>
+						</form>
+					</div>
+					<div class="join-welcom__column join-welcom__column_2">
+						<div class="join-welcom__column_right">
+						</div>
+					</div>
+				</div>
+				
+			</section>
+			<!-- Section Join -->
+			<section class="join">
+				<div class="join__wrapper">
+					<div class="join__container">
+						<div class="join__content content-join">
+							<div class="content-join__h2">JOIN NOW</div>
+							<div class="content-join__h3">It’s free!</div>
+							<div class="content-join__start">
+								<a href="#" class="content-join__link">GET STARTED</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</main>
+	</div>
+
+
+	@@include('_footer.html',{})
+	</div>
+	<!-- @@include('_popup.html',{}) -->
+	@@include('_js.html',{})
+</body>
+
+</html>

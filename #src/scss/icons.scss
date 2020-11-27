@@ -1,0 +1,65 @@
+@font-face {
+	font-family: "test";
+	font-display: swap;
+	src: url("../fonts/test.woff") format("woff"), url("../fonts/test.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+%ic {
+	font-family: "test";
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"],
+[class*="icon-"] {
+	&:before {
+		@extend %ic;
+		display: block;
+	}
+}
+
+
+$icon-facebook-icon: "\e905";
+$icon-arrow: "\e900";
+$icon-facebook: "\e901";
+$icon-instagram: "\e902";
+$icon-share: "\e903";
+$icon-twitter: "\e904";
+
+.icon-facebook-icon {
+  &:before {
+    content: "\e905"; 
+  }
+}
+.icon-arrow {
+  &:before {
+    content: $icon-arrow; 
+  }
+}
+.icon-facebook {
+  &:before {
+    content: $icon-facebook; 
+  }
+}
+.icon-instagram {
+  &:before {
+    content: $icon-instagram; 
+  }
+}
+.icon-share {
+  &:before {
+    content: $icon-share; 
+  }
+}
+.icon-twitter {
+  &:before {
+    content: $icon-twitter; 
+  }
+}

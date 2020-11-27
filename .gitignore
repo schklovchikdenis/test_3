@@ -1,0 +1,135 @@
+node_modules/
+fls_start_gulp_patrones/**/*.*
+package-lock.json
+info.txt
+debug.log
+gulpfile.js
+Home OWD.psd
+howtouse.txt
+package.json
+test-v1.0 (1).zip
+test-v1.0.zip
+test_3/favicon.ico
+test_3/index.html
+test_3/css/style.css
+test_3/css/style.min.css
+test_3/fonts/Dosis-Bold.woff
+test_3/fonts/Dosis-Bold.woff2
+test_3/fonts/Lato-Regular.woff
+test_3/fonts/Lato-Regular.woff2
+test_3/fonts/test.woff
+test_3/fonts/test.woff2
+test_3/img/arrow.png
+test_3/img/arrow.webp
+test_3/img/heart_logo.png
+test_3/img/heart_logo.webp
+test_3/img/logo.png
+test_3/img/logo.webp
+test_3/img/top_bg.png
+test_3/img/top_bg.webp
+test_3/img/cards/1.png
+test_3/img/cards/1.webp
+test_3/img/cards/2.png
+test_3/img/cards/2.webp
+test_3/img/cards/3.png
+test_3/img/cards/3.webp
+test_3/img/country/1.png
+test_3/img/country/1.webp
+test_3/img/country/2.png
+test_3/img/country/2.webp
+test_3/img/country/3.png
+test_3/img/country/3.webp
+test_3/img/country/4.png
+test_3/img/country/4.webp
+test_3/img/country/5.png
+test_3/img/country/5.webp
+test_3/img/country/6.png
+test_3/img/country/6.webp
+test_3/img/country/7.png
+test_3/img/country/7.webp
+test_3/img/country/8.png
+test_3/img/country/8.webp
+test_3/img/country/9.png
+test_3/img/country/9.webp
+test_3/img/country/10.png
+test_3/img/country/10.webp
+test_3/img/country/11.png
+test_3/img/country/11.webp
+test_3/img/country/12.png
+test_3/img/country/12.webp
+test_3/img/country/13.png
+test_3/img/country/13.webp
+test_3/img/country/14.png
+test_3/img/country/14.webp
+test_3/img/country/15.png
+test_3/img/country/15.webp
+test_3/img/country/16.png
+test_3/img/country/16.webp
+test_3/img/country/17.png
+test_3/img/country/17.webp
+test_3/img/country/18.png
+test_3/img/country/18.webp
+test_3/img/country/19.png
+test_3/img/country/19.webp
+test_3/img/country/20.png
+test_3/img/country/20.webp
+test_3/img/country/21.png
+test_3/img/country/21.webp
+test_3/img/country/22.png
+test_3/img/country/22.webp
+test_3/img/country/23.png
+test_3/img/country/23.webp
+test_3/img/country/24.png
+test_3/img/country/24.webp
+test_3/img/country/25.png
+test_3/img/country/25.webp
+test_3/img/country/26.png
+test_3/img/country/26.webp
+test_3/img/country/27.png
+test_3/img/country/27.webp
+test_3/img/foto/1.png
+test_3/img/foto/1.webp
+test_3/img/foto/2.png
+test_3/img/foto/2.webp
+test_3/img/icons/check.svg
+test_3/img/icons/check.webp
+test_3/img/icons/close.svg
+test_3/img/icons/close.webp
+test_3/img/icons/loading.gif
+test_3/img/icons/loading.webp
+test_3/img/icons/p-left.svg
+test_3/img/icons/p-left.webp
+test_3/img/icons/p-right.svg
+test_3/img/icons/p-right.webp
+test_3/img/join/9-layers.png
+test_3/img/join/9-layers.webp
+test_3/img/join/bg_join.png
+test_3/img/join/bg_join.webp
+test_3/img/join/bg.png
+test_3/img/join/bg.webp
+test_3/img/join/Join_Now.png
+test_3/img/join/Join_Now.webp
+test_3/img/soc/face.png
+test_3/img/soc/face.webp
+test_3/img/soc/foto.png
+test_3/img/soc/foto.webp
+test_3/img/soc/sharing.png
+test_3/img/soc/sharing.webp
+test_3/img/soc/twitter.png
+test_3/img/soc/twitter.webp
+test_3/js/app.js
+test_3/js/app.min.js
+test_3/js/vendors.js
+test_3/js/vendors.min.js
+Новая папка/demo.html
+Новая папка/Read Me.txt
+Новая папка/selection.json
+Новая папка/style.css
+Новая папка/style.scss
+Новая папка/variables.scss
+Новая папка/demo-files/demo.css
+Новая папка/demo-files/demo.js
+Новая папка/fonts/test.eot
+Новая папка/fonts/test.svg
+Новая папка/fonts/test.ttf
+Новая папка/fonts/test.woff
